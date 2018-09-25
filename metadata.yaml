@@ -1,11 +1,16 @@
 _repo: Das-deutsche-Wunder-Roman_57809
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57809-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratz, Rudolph
     gutenberg_agent_id: '49613'
     url: http://www.gutenberg.org/2009/agents/49613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57809#Das-deutsche-Wunder-Roman
 gutenberg_issued: '2018-08-29'
 gutenberg_type: Text
 identifiers:
